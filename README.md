@@ -55,6 +55,19 @@ int main() {
 
 Variadic-template will allow you to use as many layers as you want.
 
+But it will be much better to use generators (so the case upper will be useful for older C++ standarts) like this:
+
+```cpp
+#include <iostream>
+#include "single_for/single_for.hpp"
+
+int main() {
+    for(auto [i,j] : gtd::for_generator(4,4))
+        std::cout << i << " " << j << std::endl;
+    return 0;
+}
+```
+
 # Using Library
 
 > The library is in development so this section is updated together with library itself
