@@ -30,9 +30,9 @@ Program's output:
 
 ```
 Standard:
-0 0	0 1	0 2	0 3	1 0	1 1	1 2	1 3	2 0	2 1	2 2	2 3	3 0	3 1	3 2	3 3	
+0 0    0 1    0 2    0 3    1 0    1 1    1 2    1 3    2 0    2 1    2 2    2 3    3 0    3 1    3 2    3 3    
 Single:
-0 0	0 1	0 2	0 3	1 0	1 1	1 2	1 3	2 0	2 1	2 2	2 3	3 0	3 1	3 2	3 3
+0 0    0 1    0 2    0 3    1 0    1 1    1 2    1 3    2 0    2 1    2 2    2 3    3 0    3 1    3 2    3 3
 ```
 
 This code allows you use single for-loop that have a multi-leyered (nested) behavior. That can be useful when you need to break such loops in a simple way.
