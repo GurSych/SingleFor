@@ -4,7 +4,7 @@ SingleFor is my C++ library for easily creating multi-leyered loops with single 
 
 # Library's concept
 
-Library should make creating multi-leyered loops much easier and efficient, allowing you to use a single for-loop construction.\
+Library should make creating multi-leyered loops much easier and efficient, allowing you to use a single for-loop construction.
 
 ## First idea
 
@@ -30,7 +30,7 @@ Program's output:
 
 ```
 Standard:
-0 0    0 1    0 2    0 3    1 0    1 1    1 2    1 3    2 0    2 1    2 2    2 3    3 0    3 1    3 2    3 3    
+0 0    0 1    0 2    0 3    1 0    1 1    1 2    1 3    2 0    2 1    2 2    2 3    3 0    3 1    3 2    3 3  
 Single:
 0 0    0 1    0 2    0 3    1 0    1 1    1 2    1 3    2 0    2 1    2 2    2 3    3 0    3 1    3 2    3 3
 ```
