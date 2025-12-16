@@ -1,10 +1,10 @@
 # SingleFor
 
-SingleFor is my C++ library for easily creating multi-leyered loops with single for-construction
+SingleFor is my C++ library for easily creating multi-layered loops with single for-construction
 
 # Library's concept
 
-Library should make creating multi-leyered loops much easier and efficient, allowing you to use a single for-loop construction.
+Library should make creating multi-layered loops much easier and efficient, allowing you to use a single for-loop construction.
 
 ## First idea
 
@@ -35,7 +35,7 @@ Single:
 0 0    0 1    0 2    0 3    1 0    1 1    1 2    1 3    2 0    2 1    2 2    2 3    3 0    3 1    3 2    3 3
 ```
 
-This code allows you use single for-loop that have a multi-leyered (nested) behavior. That can be useful when you need to break such loops in a simple way.
+This code allows you use single for-loop that have a multi-layered (nested) behavior. That can be useful when you need to break such loops in a simple way.
 
 ## Vision
 
